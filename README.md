@@ -42,7 +42,7 @@ Map sentiment labels to numerical values (e.g., positive = 2, neutral = 1, negat
 ## ✅ Project Structure 
 sentiment-analysis-brand-monitoring/
 ├── data/
-│   └── social_media_data.csv      
+│   └── Sintement Prediction.csv      
 ├── sentiment_analysis.py            
 ├── requirements.txt                 
 ├── README.md                      
